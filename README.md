@@ -35,14 +35,16 @@ Special Thanks to **Clownacy** for the marvelous emulator!
 [**Explore Clown.pno →**](https://github.com/TrueArChanum/Clown.pno)
 
 
-### 🪱 Hyperwurm
+### 🪱 Hyper_Wurm (wurm.pno)
 
 Remake of the original **Commodore PET Hyper-Wurm (1981) (Von Thomask)** and **TRS-80 Hyper-Wurm (1979) (F. Seger)**.
+
+There also is a true successor:
 
 [**Get Hyperwurm is back! on Steam →**](https://store.steampowered.com/app/4664970/Hyperwurm_is_back/)
 
 
-### ♟️ Twilight_Chess
+### ♟️ Twilight_Chess (chess.pno)
 
 Chess with "Shining Force like" Units.
 
