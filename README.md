@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="ArChanum - Retro CRT Banner">
+</p>
 
-<h1 style="color: #cc3385;">⛧ ArChanum</h1>
+# ⛧ ArChanum
 
 ### `TrueArChanum` · Noob Kernel Developer · Game Developer
 
