@@ -39,9 +39,7 @@ Special Thanks to **Clownacy** for the marvelous emulator!
 
 Remake of the original **Commodore PET Hyper-Wurm (1981) (Von Thomask)** and **TRS-80 Hyper-Wurm (1979) (F. Seger)**.
 
-There also is a true successor:
-
-[**Get Hyperwurm is back! on Steam →**](https://store.steampowered.com/app/4664970/Hyperwurm_is_back/)
+There also is a true successor "Hyperwurm is back!", which is another game (not yet ported as "PNO").
 
 
 ### ♟️ Twilight_Chess (chess.pno)
