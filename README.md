@@ -1,5 +1,5 @@
 
-# ⛧ ArChanum
+<h1 style="color: #ff79c6;">⛧ ArChanum</h1>
 
 ### `TrueArChanum` · Noob Kernel Developer · Game Developer
 
