@@ -63,7 +63,9 @@ Assets under the CC0 1.0 or CC BY 3.0 licenses:
 
 ### [🪱 Get "Hyperwurm is back!" on Steam!](https://store.steampowered.com/app/4664970/Hyperwurm_is_back/)
 
-Buying a copy and sharing ur high score would mean a lot!
+The true V12-powered successor to the mighty Hyperwurm!
+
+"I'd buy that for a dollar!"
 
 ---
 
