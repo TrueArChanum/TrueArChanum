@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="ArChanum - Retro CRT Banner">
-</p>
-
 # ⛧ ArChanum
 
 ### `TrueArChanum` · Noob Kernel Developer · Game Developer
@@ -15,6 +11,11 @@ Welcome to my GitHub corner!
 ---
 
 ## 💾 Featured projects
+
+<p align="center">
+  <img src="banner.png" width="100%" alt="ArChanum - Retro CRT Banner">
+</p>
+
 
 ### ⛧ Penetrizzel
 
