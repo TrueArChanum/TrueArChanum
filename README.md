@@ -59,17 +59,17 @@ Assets under the CC0 1.0 or CC BY 3.0 licenses:
 ---
 
 
-## 🪱 If u want to support my work:
+## ☕ If u want to support my work:
 
-### [🪱 Get "Hyperwurm is back!" on Steam!](https://store.steampowered.com/app/4664970/Hyperwurm_is_back/)
+### [🚂 Get "Hyperwurm is back!" on Steam!](https://store.steampowered.com/app/4664970/Hyperwurm_is_back/)
 
 The true V12-powered successor to the mighty Hyperwurm!
 
-"I'd buy that for a dollar!"
+🪙 "I'd buy that for a dollar!"
 
 ---
 
 
-## 💭 Thanks for visiting!
+## 💗 Thanks for visiting!
 
-<sub>Built with C, Assembly, Arch Linux, questionable decisions, and a little help from ChatGPT.</sub>
+<sub>Built with C, Assembly, Arch Linux, questionable decisions, and a li’l help from ChatGPT.</sub>
