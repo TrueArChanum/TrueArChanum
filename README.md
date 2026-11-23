@@ -46,6 +46,8 @@ There also is a true successor "Hyperwurm is back!", which is another game (not 
 
 ### ♟️ Twilight_Chess (chess.pno)
 
+<img width="800" height="360" alt="chess_banner" src="https://github.com/user-attachments/assets/35b20fb7-920f-4d9a-abe8-404bca4f7ba5" />
+
 Chess with "Shining Force like" Units.
 
 Special Thanks to **nene** for the wonderful music!
