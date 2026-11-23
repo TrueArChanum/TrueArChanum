@@ -30,6 +30,8 @@ A retro-inspired 32-bit x86 toy operating system.
 
 ClownMDEmu packaged as a "Penetrizzel native object".
 
+<img width="800" height="360" alt="clown_banner" src="https://github.com/user-attachments/assets/67b269f0-7909-4319-aafd-321f88242ec6" />
+
 Special Thanks to **Clownacy** for the marvelous emulator!
 
 [**Explore Clown.pno →**](https://github.com/TrueArChanum/Clown.pno)
