@@ -37,6 +37,8 @@ Special Thanks to **Clownacy** for the marvelous emulator!
 
 ### 🪱 Hyper_Wurm (wurm.pno)
 
+<img width="800" height="360" alt="wurm_banner" src="https://github.com/user-attachments/assets/4736326b-f73a-4721-8f1f-83ad86d09597" />
+
 Remake of the original **Commodore PET Hyper-Wurm (1981) (Von Thomask)** and **TRS-80 Hyper-Wurm (1979) (F. Seger)**.
 
 There also is a true successor "Hyperwurm is back!", which is another game (not yet ported as "PNO").
