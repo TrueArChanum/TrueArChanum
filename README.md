@@ -10,6 +10,7 @@ Welcome to my GitHub corner!
 
 ---
 
+
 ## 💾 Featured projects
 
 <p align="center">
@@ -25,6 +26,9 @@ A retro-inspired 32-bit x86 toy operating system.
 
 [**Explore Penetrizzel →**](https://github.com/TrueArChanum/Penetrizzel)
 
+---
+
+
 
 ### 🤡 Clown.pno
 
@@ -36,6 +40,9 @@ Special Thanks to **Clownacy** for the marvelous emulator!
 
 [**Explore Clown.pno →**](https://github.com/TrueArChanum/Clown.pno)
 
+---
+
+
 
 ### 🪱 Hyper_Wurm (wurm.pno)
 
@@ -44,6 +51,9 @@ Special Thanks to **Clownacy** for the marvelous emulator!
 Remake of the original **Commodore PET Hyper-Wurm (1981) (Von Thomask)** and **TRS-80 Hyper-Wurm (1979) (F. Seger)**.
 
 There also is a true successor "Hyperwurm is back!", which is another game (not yet ported as "PNO").
+
+---
+
 
 
 ### ♟️ Twilight_Chess (chess.pno)
@@ -65,6 +75,7 @@ Assets under the CC0 1.0 or CC BY 3.0 licenses:
 ---
 
 
+
 ## ☕ If u want to support my work:
 
 ### [🚂 Get "Hyperwurm is back!" on Steam!](https://store.steampowered.com/app/4664970/Hyperwurm_is_back/)
@@ -74,6 +85,7 @@ The true V12-powered successor to the mighty Hyper_Wurm!
 🪙 "I'd buy that for a dollar!"
 
 ---
+
 
 
 ## 💗 Thanks for visiting!
