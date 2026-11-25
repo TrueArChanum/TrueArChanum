@@ -56,7 +56,7 @@ A completely separate game, featuring the mighty V12-powered Hyperwurm\!
 
 Unlike the original Hyper\_Wurm, this is a standalone game and not yet ported as a "PNO".
 
-[**Explore  Hyperwurm is back\! →**](https://github.com/TrueArChanum/Hyperwurm-is-back))
+[**Explore Hyperwurm is back! →**](https://github.com/TrueArChanum/Hyperwurm-is-back)
 
 ---
 
