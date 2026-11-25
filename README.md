@@ -50,7 +50,13 @@ Special Thanks to **Clownacy** for the marvelous emulator!
 
 Remake of the original **Commodore PET Hyper-Wurm (1981) (Von Thomask)** and **TRS-80 Hyper-Wurm (1979) (F. Seger)**.
 
-There also is a true successor "Hyperwurm is back!", which is another game (not yet ported as "PNO").
+There also is a true successor: **Hyperwurm is back\!**
+
+A completely separate game, featuring the mighty V12-powered Hyperwurm\!
+
+Unlike the original Hyper\_Wurm, this is a standalone game and not yet ported as a "PNO".
+
+**Explore Hyperwurm is back\! →**
 
 ---
 
