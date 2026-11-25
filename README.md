@@ -52,6 +52,8 @@ Remake of the original **Commodore PET Hyper-Wurm (1981) (Von Thomask)** and **T
 
 There also is a true successor: **Hyperwurm is back\!**
 
+<img width="550" height="412" alt="image" src="https://github.com/user-attachments/assets/8c0c95ac-64af-43f5-a728-7025019141e2" />
+
 A completely separate game, featuring the mighty V12-powered Hyperwurm\!
 
 Unlike the original Hyper\_Wurm, this is a standalone game and not yet ported as a "PNO".
