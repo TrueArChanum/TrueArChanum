@@ -1,4 +1,4 @@
-# ⛧ ArChanum
+<img width="690" height="111" alt="ArC_banner" src="https://github.com/user-attachments/assets/2c20e6d1-5292-4d04-ae8d-25c1f78a3633" />
 
 ### `TrueArChanum` · Noob Kernel Developer · F-Tier Game Developer
 
